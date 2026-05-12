@@ -1,0 +1,67 @@
+[submodule "Altis_PXG_Template.Altis/Scripts"]
+	path = Altis_PXG_Template.Altis/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+
+[submodule "VR_PXG_Template.VR/Scripts"]
+	path = VR_PXG_Template.VR/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Bystrica_PXG_Template.Woodland_ACR/Scripts"]
+	path = Bystrica_PXG_Template.Woodland_ACR/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Chernarus_Autumn_PXG_Template.chernarus/Scripts"]
+	path = Chernarus_Autumn_PXG_Template.chernarus/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Chernarus_Summer_PXG_Template.chernarus_summer/Scripts"]
+	path = Chernarus_Summer_PXG_Template.chernarus_summer/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Chernarus_Winter_PXG_Template.Chernarus_Winter/Scripts"]
+	path = Chernarus_Winter_PXG_Template.Chernarus_Winter/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Fapovo_PXG_Template.fapovo/Scripts"]
+	path = Fapovo_PXG_Template.fapovo/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Gunkizli_PXG_Template.pja308/Scripts"]
+	path = Gunkizli_PXG_Template.pja308/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Isla_Duala_PXG_Template.isladuala3/Scripts"]
+	path = Isla_Duala_PXG_Template.isladuala3/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Kunduz_River_PXG_Template.kunduz_valley/Scripts"]
+	path = Kunduz_River_PXG_Template.kunduz_valley/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Panthera_PXG_Template.panthera3/Scripts"]
+	path = Panthera_PXG_Template.panthera3/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Panthera_Winter_PXG_Template.Winthera3/Scripts"]
+	path = Panthera_Winter_PXG_Template.Winthera3/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Rosche_PXG_Template.WL_Rosche/Scripts"]
+	path = Rosche_PXG_Template.WL_Rosche/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Ruha_PXG_Template.ruha/Scripts"]
+	path = Ruha_PXG_Template.ruha/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Sahatra_PXG_Template.juju_sahatra/Scripts"]
+	path = Sahatra_PXG_Template.juju_sahatra/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Sahrani_PXG_Template.sara/Scripts"]
+	path = Sahrani_PXG_Template.sara/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Stratis_PXG_Template.Stratis/Scripts"]
+	path = Stratis_PXG_Template.Stratis/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Sumava_PXG_Template.brf_sumava/Scripts"]
+	path = Sumava_PXG_Template.brf_sumava/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Takistan_PXG_Template.takistan/Scripts"]
+	path = Takistan_PXG_Template.takistan/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Tanoa_PXG_Template.Tanoa/Scripts"]
+	path = Tanoa_PXG_Template.Tanoa/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Yulakia_PXG_Template.yulakia/Scripts"]
+	path = Yulakia_PXG_Template.yulakia/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
+[submodule "Zargabad_PXG_Template.zargabad/Scripts"]
+	path = Zargabad_PXG_Template.zargabad/Scripts
+	url = https://github.com/PXG-Arma/Scripts.git
